@@ -1,0 +1,4 @@
+git status //verifica o status dos pacotes
+git add . //adiciona as modificações da pasta
+git commit -m "<nome_aula>" //Nomeia e lacra o commit
+git push //envia para o github
