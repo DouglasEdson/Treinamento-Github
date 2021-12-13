@@ -1,2 +1,3 @@
-digite seu e-mail:
-digite sua senha:
+digite seu e-mail: teste@teste.com.br	
+digite sua senha: 123456
+idade: 25
