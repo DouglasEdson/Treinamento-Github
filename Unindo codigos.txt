@@ -1,0 +1,13 @@
+git pull da branch principal
+
+gerar uma nova branch a partir da branch principal
+
+trabalhar e adicionar novas funcionalidades na nova branch que criou
+
+finalizar o trabalho na branch principal
+
+git pull
+
+mergiar (unir) o código da branch temporário com a branch principal(depois de testar o código)
+
+git push na branch principal
