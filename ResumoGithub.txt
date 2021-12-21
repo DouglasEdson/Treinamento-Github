@@ -15,3 +15,17 @@ git checkout -b "nome da branch de origem" "nome da nova branch" // Permite muda
 git merge "branch a receber merge(unir)" // Permite fazer o merge (unir) da branch ativa atualmente com outra branch.
 
 git pull // Atualiza a branch atual ativa.
+
+Creating project and git repository
+Checklist:
+ Github: create a new project
+o NOTE: choose .gitignore type as Java
+ Open a terminal in project folder, and perform the following commands:
+git init
+git remote add origin https://github.com/acenelio/chess-system-java.git
+git pull origin master
+git add .
+git commit -m "Project created"
+git push -u origin master
+
+ls // listar as pastas dentro do terminal
