@@ -16,6 +16,30 @@ git merge "branch a receber merge(unir)" // Permite fazer o merge (unir) da bran
 
 git pull // Atualiza a branch atual ativa.
 
+git stash // Caso você tenha que mudar de projeto e não tenha terminado o código e não quer comitar do jeito que está, pra não subir um código que não esteja funcional. Você pose usar o comando "git stash" .
+
+git stash list // Verifica todas as stashes feitas em forma de lista.
+
+git stash apply // Recupera as modificações que foram salvas nas stashes.
+
+git stash apply stash@{ } // Recupera uma modificação feita em uma stash especifíca, Ex: git stash list:
+
+stash@{0}: WIP on master: 2395e2a Incluindo comandos Git
+stash@{1}: WIP on master: 2395e2a Incluindo comandos Git
+stash@{2}: WIP on master: 2e0ba5f Revert "teste no git"
+
+Basta escolher o número { } do stash que quer recuperar || Caso queria recuperar o stash e já excluir o mesmo, basta alterar o comando pop no lugar do apply .
+
+git stash drop stash@{ } // Remove/exclui um stash específico | git stash@{2}
+
+
+
+
+
+
+
+SALVANDO MODIFICAÇÕES EM UM STASH.
+
 Creating project and git repository
 Checklist:
  Github: create a new project
