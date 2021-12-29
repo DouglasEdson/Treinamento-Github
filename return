@@ -1,0 +1,82 @@
+[33mcommit 2e0ba5f42cb25ff98138f8e16c58e0a37987d620[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Wed Dec 29 17:26:44 2021 -0300
+
+    Revert "teste no git"
+    
+    This reverts commit 857a7370c65d1c4c04939bb3091ac0c1474fed6c.
+
+[33mcommit 857a7370c65d1c4c04939bb3091ac0c1474fed6c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Wed Dec 29 17:25:19 2021 -0300
+
+    teste no git
+
+[33mcommit 81444d5f7d15824cbd5f764c5d2b8679dc49ab9c[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Tue Dec 21 09:59:14 2021 -0300
+
+    Adicionando comando git remote no arquivo ResumoGitHub
+
+[33mcommit ea6de5977091351cf9804e79be274e1c40c72b4f[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Mon Dec 13 18:22:53 2021 -0300
+
+    Considerações finais Github
+
+[33mcommit d4d8f6bb929fbe32d88f6322433ca4424352ffd9[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Mon Dec 13 18:11:43 2021 -0300
+
+    Adicionando arquivo gitignore
+
+[33mcommit 84e046095f23fd16a3285fe20344e482d4030c47[m
+Merge: 5820c54 7f47b28
+Author: DouglasEdson <95656039+DouglasEdson@users.noreply.github.com>
+Date:   Mon Dec 13 17:48:13 2021 -0300
+
+    Merge pull request #1 from DouglasEdson/sistema-de-login
+    
+    adicionando idade ao sistema de login
+
+[33mcommit 7f47b2875e60c7d8267a04a8a33b266fc248e275[m[33m ([m[1;31morigin/sistema-de-login[m[33m, [m[1;32msistema-de-login[m[33m)[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Mon Dec 13 17:39:32 2021 -0300
+
+    adicionando idade ao sistema de login
+
+[33mcommit 5820c54410a9a8ff9409923d2d9efee9212bd472[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Mon Dec 13 17:33:54 2021 -0300
+
+    criado sistem de login
+
+[33mcommit a6b57d14fd151bfede588850c6f9b18f3325d0c6[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Mon Dec 13 17:27:16 2021 -0300
+
+    Merge
+
+[33mcommit dfa7599f939701efaa1145ab9b02f4ae29092f74[m[33m ([m[1;31morigin/staging[m[33m, [m[1;32mstaging[m[33m)[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Mon Dec 13 17:05:22 2021 -0300
+
+    Adição de Branch's e altenando entre elas. Prof Jhonatan Canal youtube Dev Aprender
+
+[33mcommit 975f3ca44921a31c95aef547671a947509cc15ab[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Mon Dec 13 16:47:08 2021 -0300
+
+    Curso Github Prof Jhontan
+
+[33mcommit 9d0505778157f3a3fbae41304374a09232487e9b[m
+Author: DouglasEdson <douglas22@live.com.pt>
+Date:   Mon Dec 13 15:56:49 2021 -0300
+
+    Treinamento github
+
+[33mcommit b635ec5baa78f6f5929f4856db6a1d794c28efd8[m
+Author: DouglasEdson <95656039+DouglasEdson@users.noreply.github.com>
+Date:   Mon Dec 13 15:50:46 2021 -0300
+
+    Initial commit
