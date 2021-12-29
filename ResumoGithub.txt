@@ -14,7 +14,7 @@ git checkout -b "nome da branch de origem" "nome da nova branch" // Permite muda
 
 git merge "branch a receber merge(unir)" // Permite fazer o merge (unir) da branch ativa atualmente com outra branch.
 
-git pull // Atualiza a branch atual ativa. será que dá certo?!
+git pull // Atualiza a branch atual ativa.
 
 Creating project and git repository
 Checklist:
